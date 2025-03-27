@@ -1,0 +1,45 @@
+{
+  "common": {
+    "language": "Language",
+    "tamil": "Tamil",
+    "english": "English",
+    "home": "Home",
+    "services": "Services",
+    "legal": "Legal",
+    "about": "About"
+  },
+  "header": {
+    "title": "Police Assistance Chatbot",
+    "emergency": "Emergency Help"
+  },
+  "hero": {
+    "title": "Police Assistance Chatbot",
+    "subtitle": "A chatbot to bridge the gap between citizens and police",
+    "startChat": "Start Chat"
+  },
+  "chat": {
+    "placeholder": "Type your question here...",
+    "send": "Send",
+    "thinking": "Thinking...",
+    "error": "Something went wrong. Please try again."
+  },
+  "features": {
+    "title": "Features",
+    "24/7": "Available 24/7",
+    "instant": "Instant Responses",
+    "secure": "Secure Chat",
+    "easy": "Easy to Use"
+  },
+  "guide": {
+    "title": "Step by Step Guide",
+    "step1": "Start the chatbot",
+    "step2": "Ask your question",
+    "step3": "Get instant response",
+    "step4": "Get emergency help if needed"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  }
+}
